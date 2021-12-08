@@ -1,2 +1,5 @@
 .ipynb_checkpoints
 *.sqlite
+track.csv
+user.csv
+playlist.csv
